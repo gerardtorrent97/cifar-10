@@ -7,6 +7,7 @@ Image classification with the CIFAR10 dataset (included in Keras).
 - Images labeled in 10 different classes.
 
 # Goals
+Given a starting notebook (v0):
 
 - Test 10 different neural networks combinations.
 - Collect the results and analyze them.
